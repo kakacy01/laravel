@@ -6,7 +6,7 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
-
+//开始了
 define('LARAVEL_START', microtime(true));
 
 /*
